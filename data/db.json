@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Pulvinar pellentesque\nhabitant morbi tristique senectus et netus et. Ac placerat vestibulum\nlectus mauris ultrices. Nibh sit amet commodo nulla facilisi nullam. Vel\neros donec ac odio tempor orci dapibus ultrices.",
+            "author": "Nathan",
+            "id": 1
+        },
+        {
+            "title": "Opening Party!",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Pulvinar pellentesque\nhabitant morbi tristique senectus et netus et. Ac placerat vestibulum\nlectus mauris ultrices. Nibh sit amet commodo nulla facilisi nullam. Vel\neros donec ac odio tempor orci dapibus ultrices.",
+            "author": "Garzya",
+            "id": 2
+        }
+    ]
+}
